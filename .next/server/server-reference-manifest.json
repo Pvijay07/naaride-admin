@@ -1,0 +1,50 @@
+{
+  "node": {
+    "9acbe5a09f92bcd6253c9dfc2abf79ca20b7ca5f": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cvijay%5C%5Cnaaride%5C%5Cadmin%5C%5Capp%5C%5Clogin%5C%5Cactions.ts%22%2C%5B%22logoutAction%22%2C%22loginAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cvijay%5C%5Cnaaride%5C%5Cadmin%5C%5Capp%5C%5Clogin%5C%5Cactions.ts%22%2C%5B%22logoutAction%22%2C%22loginAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/captains/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cvijay%5C%5Cnaaride%5C%5Cadmin%5C%5Capp%5C%5Clogin%5C%5Cactions.ts%22%2C%5B%22logoutAction%22%2C%22loginAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/rides/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cvijay%5C%5Cnaaride%5C%5Cadmin%5C%5Capp%5C%5Clogin%5C%5Cactions.ts%22%2C%5B%22logoutAction%22%2C%22loginAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/pricing/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cvijay%5C%5Cnaaride%5C%5Cadmin%5C%5Capp%5C%5Clogin%5C%5Cactions.ts%22%2C%5B%22logoutAction%22%2C%22loginAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/promos/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cvijay%5C%5Cnaaride%5C%5Cadmin%5C%5Capp%5C%5Clogin%5C%5Cactions.ts%22%2C%5B%22logoutAction%22%2C%22loginAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/payouts/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cvijay%5C%5Cnaaride%5C%5Cadmin%5C%5Capp%5C%5Clogin%5C%5Cactions.ts%22%2C%5B%22logoutAction%22%2C%22loginAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/captains/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cvijay%5C%5Cnaaride%5C%5Cadmin%5C%5Capp%5C%5Clogin%5C%5Cactions.ts%22%2C%5B%22logoutAction%22%2C%22loginAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/(dashboard)/dashboard/page": "action-browser",
+        "app/(dashboard)/captains/page": "action-browser",
+        "app/(dashboard)/rides/page": "action-browser",
+        "app/(dashboard)/pricing/page": "action-browser",
+        "app/(dashboard)/promos/page": "action-browser",
+        "app/(dashboard)/payouts/page": "action-browser",
+        "app/(dashboard)/captains/[id]/page": "action-browser"
+      }
+    },
+    "9de2d5124d89e400bd511a49f75d4bd6dc8542b5": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cvijay%5C%5Cnaaride%5C%5Cadmin%5C%5Capp%5C%5Clogin%5C%5Cactions.ts%22%2C%5B%22logoutAction%22%2C%22loginAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cvijay%5C%5Cnaaride%5C%5Cadmin%5C%5Capp%5C%5Clogin%5C%5Cactions.ts%22%2C%5B%22logoutAction%22%2C%22loginAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/captains/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cvijay%5C%5Cnaaride%5C%5Cadmin%5C%5Capp%5C%5Clogin%5C%5Cactions.ts%22%2C%5B%22logoutAction%22%2C%22loginAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/rides/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cvijay%5C%5Cnaaride%5C%5Cadmin%5C%5Capp%5C%5Clogin%5C%5Cactions.ts%22%2C%5B%22logoutAction%22%2C%22loginAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/pricing/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cvijay%5C%5Cnaaride%5C%5Cadmin%5C%5Capp%5C%5Clogin%5C%5Cactions.ts%22%2C%5B%22logoutAction%22%2C%22loginAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/promos/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cvijay%5C%5Cnaaride%5C%5Cadmin%5C%5Capp%5C%5Clogin%5C%5Cactions.ts%22%2C%5B%22logoutAction%22%2C%22loginAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/payouts/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cvijay%5C%5Cnaaride%5C%5Cadmin%5C%5Capp%5C%5Clogin%5C%5Cactions.ts%22%2C%5B%22logoutAction%22%2C%22loginAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/(dashboard)/captains/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cvijay%5C%5Cnaaride%5C%5Cadmin%5C%5Capp%5C%5Clogin%5C%5Cactions.ts%22%2C%5B%22logoutAction%22%2C%22loginAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/(dashboard)/dashboard/page": "action-browser",
+        "app/(dashboard)/captains/page": "action-browser",
+        "app/(dashboard)/rides/page": "action-browser",
+        "app/(dashboard)/pricing/page": "action-browser",
+        "app/(dashboard)/promos/page": "action-browser",
+        "app/(dashboard)/payouts/page": "action-browser",
+        "app/(dashboard)/captains/[id]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "ay1KCkscndokz9iKCAOH26p1vim7LYwaktrJGy1Tltg="
+}

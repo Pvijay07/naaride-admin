@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@800&family=IBM+Plex+Mono:wght@600&family=Inter:wght@400;600;700&display=swap');
+
+body {
+  background-color: #FAF9F9;
+  color: #1C1D22;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Brutalist Button Utility */
+.btn-brutalist-primary {
+  @apply bg-signal text-asphalt font-display font-extrabold uppercase px-4 py-2 border-1 border-asphalt rounded-none hover:translate-x-[-2px] hover:translate-y-[-2px] hover:shadow-brutalist transition-all duration-100;
+}
+
+.btn-brutalist-secondary {
+  @apply bg-chalk text-asphalt font-display font-extrabold uppercase px-4 py-2 border-1 border-asphalt rounded-none hover:translate-x-[-2px] hover:translate-y-[-2px] hover:shadow-brutalist transition-all duration-100;
+}
